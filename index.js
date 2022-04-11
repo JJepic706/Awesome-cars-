@@ -1,4 +1,4 @@
-// version 1.0.0
+// version 1.0.0, Includes first 101 cars, I will add the rest in a future version
 const { Client, MessageEmbed } = require('discord.js');
 const config = require('./config')
 const commands = require('./help');
